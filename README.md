@@ -35,11 +35,11 @@ Main motivation behind this application was to practice my skills in front-end d
 
 ### Report Bug and improves
 
-You can report encountered bugs or send ideas for improvement [here](add link issues new)
+You can report encountered bugs or send ideas for improvement [here](https://github.com/TomaszOrpik/Simple_Image_Editor/issues)
 
 ### License
 
-Application was uploaded under GENERAL PUBLIC LICENSE for more information [check license file](license link)
+Application was uploaded under GENERAL PUBLIC LICENSE for more information [check license file](https://github.com/TomaszOrpik/Simple_Image_Editor/blob/master/LICENSE)
 
 ### Contact
 
