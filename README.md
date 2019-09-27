@@ -13,7 +13,7 @@ Base of application is HTML5 canvas. The application logo uses stroke drawing an
 # How to Use
 
 To start using this application, just click on [link](https://tomaszorpik.github.io/Simple_Image_Editor/) or download code and follow instructions below:
-(about picture is all i need)
+https://i.imgur.com/famc03p.jpg
 
 # Features
 
