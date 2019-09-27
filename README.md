@@ -1,5 +1,5 @@
 # Simple Image Editor
-Web application for editing photos and images - [OPEN](git.io site link)
+Web application for editing photos and images - [OPEN](https://tomaszorpik.github.io/Simple_Image_Editor/)
 
 # Introduction
 
@@ -12,7 +12,7 @@ Base of application is HTML5 canvas. The application logo uses stroke drawing an
 
 # How to Use
 
-To start using this application, just click on [link](img source) or download code and follow instructions below:
+To start using this application, just click on [link](https://tomaszorpik.github.io/Simple_Image_Editor/) or download code and follow instructions below:
 (about picture is all i need)
 
 # Features
