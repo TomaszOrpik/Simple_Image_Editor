@@ -4,6 +4,8 @@ Web application for editing photos and images - [OPEN](https://tomaszorpik.githu
 # Introduction
 
 Simple Image Editor is intuitive web application made to make editing photos and drawing as fast as possible. Application is front-end languages based, so doesn't require installation, just click and you can start play with your graphics.
+
+
 ![](https://i.imgur.com/g7Lr56q.jpg)
 
 # Technologies
@@ -13,6 +15,8 @@ Base of application is HTML5 canvas. The application logo uses stroke drawing an
 # How to Use
 
 To start using this application, just click on [link](https://tomaszorpik.github.io/Simple_Image_Editor/) or download code and follow instructions below:
+
+
 ![](https://i.imgur.com/famc03p.jpg)
 
 # Features
